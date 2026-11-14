@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Life TV" group-title="Slovensko",Life TV
+https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-name="TV Doma" group-title="Slovensko - oficiálna webová stránka",TV Doma (otvorí webový prehrávač)
+https://www.markiza.sk/live/3-doma
